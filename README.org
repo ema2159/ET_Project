@@ -1,0 +1,7 @@
+#+TITLE: Eye tracking project: Implementation, comparison and analysis of the I-VT and I-DT gaze detection algorithms.
+#+CREATOR: Emmanuel Bustos T.
+#+OPTIONS: toc:nil
+
+* Description
+
+* Collaborators
