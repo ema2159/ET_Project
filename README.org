@@ -7,6 +7,10 @@
 
   The notebook in question can be checked [[https://github.com/ema2159/ET_Project/blob/main/ET_project.ipynb][here]].
 
+* Example of the results obtained:
+[[./img/saccades.png]]
+[[./img/centroids.png]]
+
 * Collaborators
 - [[https://github.com/ema2159][@ema2159]]
 - [[https://github.com/magamig][@magamig]]
