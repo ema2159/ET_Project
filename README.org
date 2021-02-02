@@ -1,7 +1,11 @@
-#+TITLE: Eye tracking project: Implementation, comparison and analysis of the I-VT and I-DT gaze detection algorithms.
+#+TITLE: Eye tracking project: Implementation, comparison and analysis of the I-VT and I-DT gaze detection algorithms
 #+CREATOR: Emmanuel Bustos T.
 #+OPTIONS: toc:nil
 
 * Description
 
 * Collaborators
+[[https://github.com/ema2159][@ema2159]]
+[[https://github.com/magamig][@magamig]]
+[[https://github.com/IacopomC][@IacopomC]]
+[[https://github.com/bideckerz][@bideckerz]]
