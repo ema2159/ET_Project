@@ -3,6 +3,9 @@
 #+OPTIONS: toc:nil
 
 * Description
+  This project consists in the implementation analysis and comparison of two gaze detection eye tracking algorithms, one velocity based (I-VT) and the other dispersion based (I-DT). The development of this project was done in the Python programming language on a Google Colab notebook, where all the sections to achieve the desired results are explained in detail.
+
+  The notebook in question can be checked [[https://github.com/ema2159/ET_Project/blob/main/ET_project.ipynb][here]].
 
 * Collaborators
 - [[https://github.com/ema2159][@ema2159]]
