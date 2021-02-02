@@ -5,7 +5,7 @@
 * Description
 
 * Collaborators
-[[https://github.com/ema2159][@ema2159]]
-[[https://github.com/magamig][@magamig]]
-[[https://github.com/IacopomC][@IacopomC]]
-[[https://github.com/bideckerz][@bideckerz]]
+- [[https://github.com/ema2159][@ema2159]]
+- [[https://github.com/magamig][@magamig]]
+- [[https://github.com/IacopomC][@IacopomC]]
+- [[https://github.com/bideckerz][@bideckerz]]
